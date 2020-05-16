@@ -15,7 +15,7 @@ Using health data for research helps us to better understand diseases and condit
 
 
 ## Learning Path 
-- [] Introduction to Public Health 
+- [x] Introduction to Public Health 
 - [] Introduction to Health Data Science 
 - [] Health Data Management 
 - [] Epidemiology for Health Data Science 
