@@ -15,14 +15,13 @@ Using health data for research helps us to better understand diseases and condit
 
 
 ## Learning Path 
--  Introduction to Public Health 
 -  Introduction to Health Data Science 
 - Health Data Management 
 - Epidemiology for Health Data Science 
 - Fundamental Math Concepts(Numbers, Sets, Combinatorics, Probability & Matrix) 
--  Introduction to Biostatistics for Health Data Science 
--  Advance Biosatistics Methods for Health Data Science 
--  Introduction to Python for Health Data Science 
+- Introduction to Biostatistics for Health Data Science 
+- Advance Biosatistics Methods for Health Data Science 
+- Introduction to Python for Health Data Science 
 - Health Data Management with Pandas 
 - Data Visualizations with Matplotlib, Seaborn, Plotnine & Plotly 
 -  Machine Learning for Health Data Science with Scikit-learn 
