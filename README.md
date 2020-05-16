@@ -15,22 +15,22 @@ Using health data for research helps us to better understand diseases and condit
 
 
 ## Learning Path 
-- [x] Introduction to Public Health 
-- [] Introduction to Health Data Science 
-- [] Health Data Management 
-- [] Epidemiology for Health Data Science 
-- [] Fundamental Math Concepts(Numbers, Sets, Combinatorics, Probability & Matrix) 
-- [] Introduction to Biostatistics for Health Data Science 
-- [] Advance Biosatistics Methods for Health Data Science 
-- [] Introduction to Python for Health Data Science 
-- [] Health Data Management with Pandas 
-- [] Data Visualizations with Matplotlib, Seaborn, Plotnine & Plotly 
-- [] Machine Learning for Health Data Science with Scikit-learn 
-- [] Genomics Health Data Analysis with Python 
-- [] Introduction to R for Health Data Science 
-- [] Health Data Management with `dplyr` 
-- [] Data Visualizations with ggplot2 & Plotly 
-- [] Dashboard Building for Health Care(flexboard, Dash & Shiny) 
+-  Introduction to Public Health 
+-  Introduction to Health Data Science 
+- Health Data Management 
+- Epidemiology for Health Data Science 
+- Fundamental Math Concepts(Numbers, Sets, Combinatorics, Probability & Matrix) 
+-  Introduction to Biostatistics for Health Data Science 
+-  Advance Biosatistics Methods for Health Data Science 
+-  Introduction to Python for Health Data Science 
+- Health Data Management with Pandas 
+- Data Visualizations with Matplotlib, Seaborn, Plotnine & Plotly 
+-  Machine Learning for Health Data Science with Scikit-learn 
+- Genomics Health Data Analysis with Python 
+- Introduction to R for Health Data Science 
+- Health Data Management with `dplyr` 
+- Data Visualizations with ggplot2 & Plotly 
+- Dashboard Building for Health Care(flexboard, Dash & Shiny) 
 
 ## Health Data Sources 
 - http://publichealthintelligence.org/content/resources/data-sources
